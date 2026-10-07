@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "grok-feishu-wechat-bridge",
+  "description": "双通道桥接插件：连接 xAI Grok 与飞书（Feishu/Lark）及微信（WeChat），支持长连接实时收发与 Routine Webhook 唤醒。",
+  "version": "1.0.0",
+  "author": {
+    "name": "rvshen"
+  }
+}

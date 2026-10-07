@@ -1,0 +1,27 @@
+{
+  "name": "grok-feishu-wechat-bridge",
+  "version": "1.0.0",
+  "description": "Bridge connecting xAI Grok to Feishu (Lark) and WeChat.",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "postinstall": "cd server && npm install"
+  },
+  "keywords": [
+    "grok",
+    "xai",
+    "feishu",
+    "lark",
+    "wechat",
+    "bot",
+    "mcp",
+    "bridge"
+  ],
+  "author": "rvshen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvshen/grok-feishu-wechat-bridge.git"
+  }
+}

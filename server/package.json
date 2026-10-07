@@ -1,0 +1,9 @@
+{
+  "name": "grok-feishu-wechat-bridge-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.61.1"
+  }
+}
